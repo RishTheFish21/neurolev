@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Recorded EEG sessions and logs (can be large; contain people's brain data)
+data/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
