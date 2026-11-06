@@ -6,7 +6,7 @@ NeuroLev connects a consumer EEG headset to an ultrasonic phased array. The head
 
 > **Status: work in progress.** The decoder, phase solver, control loop and stimulus firmware are written and tested on simulated data. Hardware integration and real-user testing are underway; results below will be filled in as they're measured.
 
-[demo](docs/demo.png)
+![demo](docs/demo.png)
 
 ## How it works
 
